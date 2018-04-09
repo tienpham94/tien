@@ -29,3 +29,7 @@ const App = () =>
 
 export default App
 ```
+
+Result: 
+
+![image](https://user-images.githubusercontent.com/25751050/38517284-1f20c916-3c42-11e8-82b9-f33cb6f361c7.png)
