@@ -1,12 +1,13 @@
-import React from 'react';
+import React from 'react'
+import { H1, H2, H3, H4, Button } from 'tien'
 
-// import { H1 } from 'tien';
-
-const App = () => (
+const App = () =>
   <div>
-    <h1>Hi</h1>
+    <H1>Heading 1</H1>
+    <H2>Heading 2</H2>
+    <H3>Heading 3</H3>
+    <H4>Heading 4</H4>
+    <Button type="submit">Hello world</Button>
   </div>
-)
-// <H1>Hello</H1>
 
-export default App;
+export default App
