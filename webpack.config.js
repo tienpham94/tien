@@ -10,7 +10,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      styledbyme: path.join(__dirname, 'src')
+      tien: path.join(__dirname, 'src')
     }
   },
   module: {
